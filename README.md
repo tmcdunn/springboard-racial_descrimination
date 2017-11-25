@@ -5,5 +5,7 @@ This repository contains the documents for my Springboard Mini-Project on Infere
 The files in this repository are:
 
 This file === README.md
+
 Data file === us_job_market_discrimination.dta
+
 My submission (code & documentation) === Racial_Discrimination_exercise.ipynb
